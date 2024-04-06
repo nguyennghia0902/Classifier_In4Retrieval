@@ -19,7 +19,6 @@ st.markdown(
     | Student ID | Full Name                |
     | ---------- | ------------------------ |
     | 19120600   | Bùi Nguyên Nghĩa         |
-    | 19120607   | Phạm Thị Nguyệt          |
     """
 )
 
